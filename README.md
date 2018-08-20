@@ -1,0 +1,1 @@
+# ConnectionStringInAzurefunction2.x
